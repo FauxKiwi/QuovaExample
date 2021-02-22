@@ -1,0 +1,4 @@
+public void main() {
+  // Basic Hello World
+  println("Hello World!");
+}
